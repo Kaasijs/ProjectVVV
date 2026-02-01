@@ -9,8 +9,12 @@ Daarnaast is het sterk aan te raden om een eigen soldeerstation te hebben. Hierm
 ## Solderen
 LETOP bij het solderen is het belangrijk om niet je vingers te verliezen. kijk [dit](https://youtu.be/4YCihI_FIHg?t=10) filmpje als je het nognooit gedaan heb
 Zorg er voor dat je naukurig de connecties volgens het diagram volgt, en geen kortsluiting veroorzaakt met de batterij.
+Ik raad aan om de armen dus: mosfet, motor en weerstanden eerst tedoen. dit maakt het leven een stuk makelijker!
 Dit zijn alle connecties die vorzien moeten worden van kables:
 <img alt="afbeelding" src="https://github.com/Kaasijs/ProjectVVV/blob/main/art/Drone%20Diagram.png" />
+hij moet er ongeveer zo komen uit tezien:
+<img alt="afbeelding" src="https://github.com/Kaasijs/ProjectVVV/blob/main/art/Drone.png" />
+
 
 ## Firmware
 Om dit programma op een eigen ESP32 te zetten, moet eerst de [Arduino IDE](https://www.arduino.cc/) worden gedownload. Na installatie moet in de Arduino IDE de ondersteuning voor de ESP32 worden toegevoegd via de Board Manager. Hiervoor wordt in de instellingen de ESP32 board URL toegevoegd en daarna wordt het ESP32 boardpakket geïnstalleerd.
