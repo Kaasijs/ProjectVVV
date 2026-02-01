@@ -3,8 +3,8 @@
 ## Onderdelen
 Dit is alles dat je nodig hebt om de drone temaken:
 <img alt="afbeelding" src="https://github.com/Kaasijs/ProjectVVV/blob/main/art/Benodigdheden.png" />
-Daarnaast heb je ook het frame nodig. Als je een 3D printer hebt kan je [deze](https://github.com/Kaasijs/ProjectVVV/blob/main/models/Both.stl) uitprinten
-En het kan geen kwaad om je eigen soldeer station te hebben.
+Naast deze onderdelen heb je ook een frame nodig. Als je een 3D-printer hebt, kun je [deze](https://github.com/Kaasijs/ProjectVVV/blob/main/models/Both.stl) zelf uitprinten. Het frame zorgt ervoor dat alle onderdelen stevig op hun plek blijven en dat de armen op de juiste afstand van elkaar zitten.
+Daarnaast is het sterk aan te raden om een eigen soldeerstation te hebben. Hiermee kun je alle verbindingen netjes temaken. Een goede soldeerbout, soldeertin en eventueel krimpkous of isolatietape helpen om de elektronica veilig en netjes aan te sluiten.
 
 ## Solderen
 LETOP bij het solderen is het belangrijk om niet je vingers te verliezen. kijk [dit](https://youtu.be/4YCihI_FIHg?t=10) filmpje als je het nognooit gedaan heb
@@ -18,4 +18,7 @@ Daarna moeten de afhankelijkheden worden geïnstalleerd via de "Library Manager"
 Na het uploaden start de ESP32 automatisch met het uitvoeren van het droneprogramma.
 
 ## Controler
-Je kan alle bluetooth gamepad controlers gebruiken om de drone tebesturen, ik raad aan een xbox controler omdat die blijft zoeken voor een verbinding als hij verbinding verliest. als de drone opstart zet je de controler in pairing mode, en klaar is kees! veel vlieg plezier!
+Je kunt vrijwel alle Bluetooth gamepad controllers gebruiken om de drone te besturen. Ik raad aan om de (nieuwe versie van de) Xbox controller te gebruiken, omdat deze automatisch blijft zoeken naar een verbinding als hij de verbinding verliest. Dit maakt het gebruik betrouwbaarder tijdens het vliegen.
+
+Wanneer de drone opstart, zet je de controller in pairing mode. De ESP32 zal de controller automatisch detecteren en verbinden. Zodra de verbinding tot stand is gebracht, kun je direct beginnen met besturen.
+BOOYAH!
