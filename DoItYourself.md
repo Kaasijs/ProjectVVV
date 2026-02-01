@@ -12,6 +12,7 @@ Zorg er voor dat je naukurig de connecties volgens het diagram volgt, en geen ko
 Ik raad aan om de armen dus: mosfet, motor en weerstanden eerst tedoen. dit maakt het leven een stuk makelijker!
 Dit zijn alle connecties die vorzien moeten worden van kables:
 <img alt="afbeelding" src="https://github.com/Kaasijs/ProjectVVV/blob/main/art/Drone%20Diagram.png" />
+
 hij moet er ongeveer zo komen uit tezien:
 <img alt="afbeelding" src="https://github.com/Kaasijs/ProjectVVV/blob/main/art/Drone.png" />
 
